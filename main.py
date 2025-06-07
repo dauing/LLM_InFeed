@@ -16,9 +16,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     #模型参数
     parser.add_argument('--num_loops', default=2, type=int)
-    parser.add_argument('--N', default=22, type=int)
-    parser.add_argument('--M', default=33, type=int)
-    parser.add_argument('--lora_rank', default=10, type=int)
+    parser.add_argument('--N', default=20, type=int)
+    parser.add_argument('--M', default=30, type=int)
+    parser.add_argument('--lora_rank', default=8, type=int)
     parser.add_argument('--class_num', default=2, type=int)
 
     #训练参数

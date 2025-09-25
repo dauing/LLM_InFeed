@@ -73,13 +73,6 @@ Optimizer: Adam with cosine annealing (lr: 1e-4 → 1e-6).
 
 Fine-tuning: LoRA applied to layers 22–32.
 
-Expected results (average F1):
-
-Model	P-Stance	SEM16	VAST
-LLaMA2-7B + LLMEmbed	82.1	68.5	61.2
-GPT-3.5 + COLA	83.4	70.9	62.3
-LLaMA2-7B + InFeed (ours)	85.2	70.6	64.0
-
 ## 📌 Citation
 
 If you find this work useful, please cite:

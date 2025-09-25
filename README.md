@@ -33,7 +33,7 @@ We recommend using Python ≥ 3.9 and PyTorch ≥ 2.1. Install dependencies with
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 Key dependency (must match version for reproducibility):
 ```bash

@@ -33,11 +33,12 @@ We recommend using Python ≥ 3.9 and PyTorch ≥ 2.1. Install dependencies with
 
 ```bash
 pip install -r requirements.txt
+```bash
 
 Key dependency (must match version for reproducibility):
-
+```bash
 transformers==4.46.3
-
+```bash
 ## 📂 Repository Structure
 ├── configs/           # Training configs
 ├── data/              # Dataset preparation scripts
@@ -82,7 +83,7 @@ LLaMA2-7B + InFeed (ours)	85.2	70.6	64.0
 ## 📌 Citation
 
 If you find this work useful, please cite:
-
+```bash
 @article{zhang2025infeed,
   title={A lightweight large language model for stance detection enhanced by implicit state feedback},
   author={Zhang, Wenqing and Wang, Yinglong and Zhou, Shijie and Wang, Jun and Ding, Qiaolong and Zeng, Peiyi and Wang, Yue and Wu, Chunjiang},
@@ -92,7 +93,7 @@ If you find this work useful, please cite:
   number={285},
   doi={10.1007/s12083-025-02081-x}
 }
-
+```bash
 ## 📬 Contact
 
 For questions or collaborations, please contact:

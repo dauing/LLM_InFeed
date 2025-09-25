@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Key dependency (must match version for reproducibility):
 ```bash
 transformers==4.46.3
-```bash
+```
 ## 📂 Repository Structure
 ├── configs/           # Training configs
 ├── data/              # Dataset preparation scripts
@@ -93,7 +93,7 @@ If you find this work useful, please cite:
   number={285},
   doi={10.1007/s12083-025-02081-x}
 }
-```bash
+```
 ## 📬 Contact
 
 For questions or collaborations, please contact:

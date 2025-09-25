@@ -40,13 +40,13 @@ Key dependency (must match version for reproducibility):
 transformers==4.46.3
 ```
 ## 📂 Repository Structure
-├── configs/           # Training configs
-├── data/              # Dataset preparation scripts
-├── models/            # Feedback transformer & classification head
-├── trainer/           # Training and evaluation loop
-├── utils/             # Helper functions
-├── Feedback.png       # Method framework figure
-└── main.py            # Entry point
+├── configs/           # Training configs  
+├── data/              # Dataset preparation scripts  
+├── models/            # Feedback transformer & classification head  
+├── trainer/           # Training and evaluation loop  
+├── utils/             # Helper functions  
+├── Feedback.png       # Method framework figure  
+└── main.py            # Entry point  
 
 ## 📊 Datasets
 
